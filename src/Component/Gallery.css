@@ -1,0 +1,50 @@
+/* src/components/InfiniteScroll.css */
+.infinite-scroll-container {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+  }
+  
+  .article {
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+  }
+
+  .article-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+
+  .author {
+    font-size: 14px;
+    color: black;
+    margin-right: 10px;
+    white-space: nowrap; 
+    font-family: "Times New Roman", serif;
+  }
+  
+  .article img {
+    max-width: 100%;
+    height: auto;
+    margin-right: 20px;
+  }
+  
+  .like-container {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .like-icon {
+    margin-right: 5px;
+    color: #007BFF;
+  }
+  
+  .like-count {
+    font-weight: bold;
+    color: #007BFF;
+  }
+  
