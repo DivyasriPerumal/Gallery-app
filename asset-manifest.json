@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/task-app/static/css/main.f18f75aa.css",
-    "main.js": "/task-app/static/js/main.8c9eeb2c.js",
-    "static/js/787.d8118572.chunk.js": "/task-app/static/js/787.d8118572.chunk.js",
-    "index.html": "/task-app/index.html",
-    "main.f18f75aa.css.map": "/task-app/static/css/main.f18f75aa.css.map",
-    "main.8c9eeb2c.js.map": "/task-app/static/js/main.8c9eeb2c.js.map",
-    "787.d8118572.chunk.js.map": "/task-app/static/js/787.d8118572.chunk.js.map"
+    "main.css": "/StoreCode/static/css/main.4ba09c3b.css",
+    "main.js": "/StoreCode/static/js/main.d55a5045.js",
+    "static/js/787.eaaaebfe.chunk.js": "/StoreCode/static/js/787.eaaaebfe.chunk.js",
+    "index.html": "/StoreCode/index.html",
+    "main.4ba09c3b.css.map": "/StoreCode/static/css/main.4ba09c3b.css.map",
+    "main.d55a5045.js.map": "/StoreCode/static/js/main.d55a5045.js.map",
+    "787.eaaaebfe.chunk.js.map": "/StoreCode/static/js/787.eaaaebfe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f18f75aa.css",
-    "static/js/main.8c9eeb2c.js"
+    "static/css/main.4ba09c3b.css",
+    "static/js/main.d55a5045.js"
   ]
 }
